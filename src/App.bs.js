@@ -4,7 +4,6 @@
 var React = require("react");
 
 function App(Props) {
-  Props.name;
   return React.createElement("h1", undefined, "Welcome to Reason React");
 }
 
